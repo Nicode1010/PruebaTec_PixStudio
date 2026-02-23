@@ -106,20 +106,6 @@ Incluye captura `.png` del envío exitoso.
 
 ---
 
-# 🧩 Arquitectura del Proyecto
-
-```
-PIXRPA-PruebaTecnica
-│
-├── Data
-│   ├── Input
-│   ├── Output
-│   ├── Reportes
-│   └── Config.xlsx
-│
-├── Scripts SQL
-└── Proyecto.pixproj
-```
 
 ---
 
