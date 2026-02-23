@@ -151,7 +151,7 @@ Configurar:
 - Datos del formulario  
 
 > ⚠ IMPORTANTE  
-> El bot fue desarrollado para trabajar con **PostgreSQL**.  
+> El bot fue desarrollado para trabajar con **SQL Server**.  
 > Ajustar host, puerto, usuario y contraseña según el entorno.
 
 ---
